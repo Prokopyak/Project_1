@@ -1,0 +1,64 @@
+.container {
+    width: 80%;
+    margin: 0 auto;
+    box-sizing: border-box;
+    
+}
+.box {
+    height: 748px;
+    background: rgb(231, 239,241);
+}
+.box2 {
+    height: 748px;
+    background-image: url("../img/git_1.png");
+    }  
+
+.text {
+    height: 740px;
+    margin: 80px 150px;
+    }
+.top {
+ position: relative; 
+ top: -5px;
+ right: -20px;
+ border:  2px solid rgb(152, 159,160);
+ padding: 5px 10px; 
+ margin: 15px auto; 
+ color: rgb(131, 139,140);
+ font: 10px 'Domine', serif;
+ border-radius: 20px 20px 20px 20px;
+}
+.top:hover{
+    text-decoration: none;
+    color: rgb(131, 139,140);
+    border:  2px solid rgb(255, 172,86);
+}
+
+p {
+    position: relative;
+    color: rgb(131, 139,140);
+    font: 10px 'Domine', serif;
+}
+h1 {
+    margin: -20px auto;
+    font: bold 24px 'Montserrat', sans-serif;
+    display: inline-block;
+}
+h2 {
+    position: relative;
+    top: -18px;
+    font: bold 13px 'Montserrat', sans-serif;
+}
+h3 {
+    position: relative;
+    font: bold 10px 'Domine', serif;
+}
+b {
+    color: rgb(36, 214, 53)
+}
+.inner {
+    height: 30px;
+}
+
+
+
